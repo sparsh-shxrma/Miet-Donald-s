@@ -1,7 +1,7 @@
 
 A food ordering website for Miet Canteen   
 
-This project is made for Model Institute of engineering and technology.
+This project is made for Model Institute of engineering and technology
 
 To run the project run commands :
 
